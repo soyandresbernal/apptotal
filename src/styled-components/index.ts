@@ -1,1 +1,1 @@
-export * from "./Layoutstyled.components";
+export * from './layout.styled.component';

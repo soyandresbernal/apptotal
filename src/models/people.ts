@@ -1,7 +1,7 @@
 export interface Person {
   id: string;
   name: string;
-  company: "string";
-  "company-image": "tanic.png";
+  category: string;
+  company: string;
   levelOfHappiness: number;
 }
